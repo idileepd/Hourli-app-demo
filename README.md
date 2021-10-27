@@ -4,7 +4,7 @@
 
 ![Test Image 4](https://i.ibb.co/ZzpGmyg/the-Creative-Process.png)
 
-Hourli is a task traking app with extra features that you can ask some one watch your tasks they will get notified when do or drop any specific tasks. You will be shown weekly and daily progress all your watching can be ranked against you. You will have timeline that is where all task logs present.
+Hourli is a task traking app with extra features that you can ask some one watch your tasks they will get notified when do or drop any specific tasks. You will be shown weekly and daily progress all your watchings can be ranked against you. You will have timeline that is where all task logs present.
 
   - Task Traking
   - Activity loging
